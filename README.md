@@ -9,6 +9,8 @@ This document revisits the essential security configurations for Apache HTTP Ser
 
 By following the key recommendations outlined below, you can avoid common configuration errors and prevent security vulnerabilities caused by improper Apache Directive Configurations.
 
+If you find this helpful, please the **"star"**:star2: to support further improvements.
+
 ***
 ## Table of Contents
 - [1. Ensure Proper Permissions for Apache Process Account](#1-ensure-proper-permissions-for-apache-process-account)
