@@ -545,7 +545,7 @@ In cases where a web service vulnerability allows remote access to web server pe
 Ensure that SSL certificate files are secured by verifying and applying proper file permissions.
 
 **Audit:**
-- Verify the file ownership and permissions for the `ssl_certificate` and `ssl_certificate_key` files.
+- Verify the file ownership and permissions for the `SSLCertificateFile`, `SSLCertificateKeyFile`, `SSLCertificateChainFile` files.
     ```
     [root@localhost ~]# vim /etc/httpd/httpd.conf
     ...
